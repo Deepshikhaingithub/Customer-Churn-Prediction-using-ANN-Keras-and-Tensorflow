@@ -1,9 +1,10 @@
 # Customer-Churn-Prediction-using-ANN-Keras-and-Tensorflow
 
-Project Overview:
+***Project Overview:***
+
 This project aims to develop a predictive model that can effectively identify customers who are likely to exit a multinational bank operating in France, Spain, and Germany. Customer churn, the act of customers leaving the bank, is a critical concern for financial institutions. Understanding and predicting churn can help the bank take proactive measures to retain valuable customers, thereby reducing revenue loss and maintaining a competitive edge in the market.
 
-Data Description:
+***Data Description:***
 
 The dataset contains the following columns:
 
