@@ -36,7 +36,7 @@ EstimatedSalary: The estimated salary of the customer.
 
 Exited: The target variable, indicating whether the customer has exited the bank (1 for yes, 0 for no).
 
-Steps taken for implementing the project:
+***Steps taken for implementing the project:***
 
 1. Data Cleaning:
 
